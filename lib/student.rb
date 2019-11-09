@@ -63,5 +63,5 @@ class Student
   #     self.new_from_db(row)
   #   end
   # end
-  
+
 end
