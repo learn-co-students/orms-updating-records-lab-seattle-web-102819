@@ -11,9 +11,6 @@ class Student
     @id = id
     @name = name
     @grade = grade
-    # @id = input["id"]
-    # @name = input["name"]
-    # @grade = input["grade"]
   end
 
   def self.create_table
